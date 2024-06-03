@@ -1,6 +1,6 @@
 /**
- * A different version of the script so that it can be executed,
- * read and downloaded in a browser
+ * A different version of the script so that it can be executed and
+ * downloaded in a browser
  *
  */
 
